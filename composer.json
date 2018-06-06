@@ -1,0 +1,12 @@
+{
+    "name": "mudzy10501/uasweb",
+    "authors": [
+        { 
+            "name": "mudzy10501",
+            "email": "shigatsu443@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    }
+}
